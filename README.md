@@ -1,5 +1,5 @@
 # Traktor-Processing
-###TRAKTOR PRO 2 with Processing  
+###TRAKTOR PRO 2 を Processing  でハックします。
 以下のブログ記事を参考にどうぞ
 
 
